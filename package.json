@@ -1,0 +1,16 @@
+{
+  "name": "electrodomesticos",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "codegpt-nextjs": "file:../.vscode/extensions/danielsanmedium.dscodegpt-3.4.0/standalone",
+    "express": "^10.7.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.8"
+  }
+}
